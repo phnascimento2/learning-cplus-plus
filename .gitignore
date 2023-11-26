@@ -1,4 +1,6 @@
 #Folders
+_reading_resources/
+.vscode
 
-data_structures/.vscode
-_reading_resources
+# Files
+*.exe
