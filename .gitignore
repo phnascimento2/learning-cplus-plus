@@ -1,6 +1,6 @@
 #Folders
-_reading_resources/
-data_structures/.vscode
+_reading_resources/*
+.vscode
 
 # Extensions
-*.exe
+data_structures/src/*.exe
